@@ -1,5 +1,4 @@
-### Hi there, I'm Aakash Chaudhary 👋
-
+# Hi there, I'm Aakash Chaudhary ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## I'm a Student.
 
