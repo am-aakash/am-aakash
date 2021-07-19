@@ -10,8 +10,7 @@
 
 ### Spotify Playing 🎧
 
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="450" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31xgdca5sqvu44ocd6zcv5rjsmdu&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 ### Connect with me:
 
