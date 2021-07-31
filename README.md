@@ -1,11 +1,24 @@
 # Hi there, I'm Aakash Chaudhary ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## I'm a Student.
+<img align="right" alt="GIF" src="coding.gif" width="300px" height="260px"/>
+
+## I'm a Student
 
 - 🔭 Pirsuing B.Tech in ECE from LNCT, Bhopal
 - 🌱 I’m currently learning Android Development
 - 👯 I’m looking to work with some startups to improve my skills
 - 🥅 2021 Goals: Learn, Learn and Learn
+
+
+## TechStack
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
+![Flutter](http://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
+![Kotlin](https://img.shields.io/badge/-kotlin-333333?style=flat&logo=kotlin)
+![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+![Android Studio](http://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=FFFFFF)
 
 
 ## &#x1f4c8; GitHub Stats
@@ -21,7 +34,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="am-aakash | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img height="25" src="https://img.shields.io/badge/gmail-c14438?&style=flat&logo=gmail&logoColor=white">][gmail] 
+[<img align="left" alt="am-aakash | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
 [<img align="left" alt="codeSTACKr | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="am-aakash | Codechef" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codechef.svg" />][codechef]
 [<img align="left" alt="am-aakash | Codeforces" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codeforces.svg" />][codeforces]
@@ -31,7 +45,8 @@
 
 </details>
 
+[gmail]: akashchaudhary12121@gmail.com
 [codechef]: http://codechef.com/users/am_aakash
 [codeforces]: http://codeforces.com/profile/am_aakash
 [instagram]: https://instagram.com/am_aakash
-[linkedin]: http://linkedin.com/in/aakash12121
+[LinkedIn]: http://linkedin.com/in/aakash12121
