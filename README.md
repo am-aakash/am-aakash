@@ -6,7 +6,7 @@
 
 - 🔭 Pirsuing B.Tech in ECE from LNCT, Bhopal
 - 🌱 I’m currently learning Android Development
-- 👯 I’m looking to work with some startups to improve my skills
+- 👯 Moblie Application Developer at FirstFloor, Mysore
 - 🥅 2021 Goals: Learn, Learn and Learn
 
 
