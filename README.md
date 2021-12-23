@@ -5,17 +5,27 @@
 ## I'm a Student
 
 - 🔭 Pirsuing B.Tech in ECE from LNCT, Bhopal
-- 🌱 I’m currently learning Android Development
-- 👯 Moblie Application Developer at FirstFloor, Mysore
-- 🥅 2021 Goals: Learn, Learn and Learn
+- 🌱 I’m currently learning NodeJs and Flutter
+- 👯 Full Stack App Developer at FirstFloor, Mysore
+- 🥅 2022 Goals: Learn, Learn and Learn
 
 
 ## TechStack
+<!--  -->
+![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![ExpressJs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<!--  -->
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
-![Flutter](http://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
 ![Kotlin](https://img.shields.io/badge/-kotlin-333333?style=flat&logo=kotlin)
 ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+<!--  -->
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=FFFFFF)
