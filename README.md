@@ -6,7 +6,6 @@
 
 - 🔭 Pirsuing B.Tech in ECE from LNCT, Bhopal
 - 🌱 I’m currently learning NodeJs and Flutter
-- 👯 Full Stack App Developer at FirstFloor, Mysore
 - 🥅 2022 Goals: Learn, Learn and Learn
 
 
